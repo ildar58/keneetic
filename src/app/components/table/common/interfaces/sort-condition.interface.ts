@@ -1,4 +1,4 @@
 export interface SortCondition {
-    active: string;
-    direction: string;
+  active: string;
+  direction: string;
 }
